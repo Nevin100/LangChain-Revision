@@ -24,5 +24,6 @@ transformers
 python-dotenv
 
 # ML Utitlities
+pydantic
 numpy
 scikit-learn
