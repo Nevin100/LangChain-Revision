@@ -27,3 +27,6 @@ python-dotenv
 pydantic
 numpy
 scikit-learn
+
+# Graph Visualization
+grandalf
