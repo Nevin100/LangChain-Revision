@@ -37,7 +37,7 @@ parser = StrOutputParser()
 chain1 = prompt1 | llm1 | parser
 chain2 = prompt2 | llm2 | parser
 
-# Parallel Execution of notes and quiz generation using RunnableParallel. This allows both chains to run simultaneously, improving efficiency and reducing overall execution time.
+# Parallel Execution of notes and quiz generation using RunnableParallel. RunnableParallel is a LangChain utility that allows multiple chains to run simultaneously, improving efficiency and reducing overall execution time.
 parallel_chain = RunnableParallel(
     notes=chain1,
     quiz=chain2
