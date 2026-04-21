@@ -30,3 +30,6 @@ scikit-learn
 
 # Graph Visualization
 grandalf
+
+# Langchain Community
+langchain_community
