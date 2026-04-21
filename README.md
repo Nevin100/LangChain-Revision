@@ -1,6 +1,6 @@
 # LangChain GenAI Revision
 
-An educational LangChain playground that demonstrates how to build generative AI workflows with multiple model providers, local Hugging Face models, structured outputs, chains, runnables, document loaders, and text splitters.
+An educational LangChain Repository that demonstrates how to build generative AI workflows with multiple model providers, local Hugging Face models, structured outputs, chains, runnables, document loaders, and text splitters.
 
 This repository is organized as a set of small, self-contained examples. Each script focuses on one concept so you can study, run, and modify the code independently.
 
@@ -104,7 +104,7 @@ If you are using Windows PowerShell, the same commands work as long as you run t
 
 - The numbered folders are meant to keep the examples organized by topic.
 - Most scripts are intentionally small and educational rather than production ready.
-- Some examples depend on current LangChain package structure, so newer packages such as `langchain-community`, `langchain-huggingface`, and `langchain-text-splitters` are included.
+- Some examples depend on current LangChain package structure, so you may need helper packages such as `langchain-community`, `langchain-huggingface`, and `langchain-text-splitters` depending on the script you run.
 - The document loader and splitter examples are useful starting points for RAG pipelines.
 
 ## Repository Goal
