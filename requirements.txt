@@ -33,3 +33,6 @@ grandalf
 
 # Langchain Community
 langchain_community
+
+# Text Splitters
+langchain-text-splitters
