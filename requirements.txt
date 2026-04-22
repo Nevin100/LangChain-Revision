@@ -39,3 +39,6 @@ langchain_text_splitters
 
 # Vector Stores
 chromadb
+
+# Retrievers
+wikipedia
