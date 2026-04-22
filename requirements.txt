@@ -35,4 +35,7 @@ grandalf
 langchain_community
 
 # Text Splitters
-langchain-text-splitters
+langchain_text_splitters
+
+# Vector Stores
+chromadb

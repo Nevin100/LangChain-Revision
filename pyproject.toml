@@ -5,19 +5,24 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "chromadb>=1.5.8",
     "google-genai>=1.71.0",
     "google-generativeai>=0.8.6",
+    "grandalf>=0.8",
     "langchain>=1.2.15",
     "langchain-anthropic>=1.4.0",
+    "langchain-community>=0.4.1",
     "langchain-core>=1.2.28",
     "langchain-google-genai>=4.2.1",
     "langchain-groq>=1.1.2",
     "langchain-huggingface>=1.2.1",
     "langchain-openai>=1.1.12",
+    "langchain-text-splitters>=1.1.1",
     "numpy>=2.4.4",
     "openai>=2.31.0",
     "pydantic>=2.12.5",
     "python-dotenv>=1.2.2",
     "scikit-learn>=1.8.0",
+    "sentence-transformers>=5.4.1",
     "transformers>=5.5.1",
 ]
