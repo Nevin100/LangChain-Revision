@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "chromadb>=1.5.8",
+    "ddgs>=9.14.1",
     "faiss-cpu>=1.13.2",
     "google-genai>=1.71.0",
     "google-generativeai>=0.8.6",

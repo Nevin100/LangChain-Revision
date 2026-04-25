@@ -47,3 +47,6 @@ wikipedia
 faiss-cpu
 youtube_transcript_api
 tiktoken
+
+# tools
+ddgs
