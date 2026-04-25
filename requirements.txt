@@ -42,3 +42,8 @@ chromadb
 
 # Retrievers
 wikipedia
+
+# RAG AGENT FOLDER SPECIFIC
+faiss-cpu
+youtube_transcript_api
+tiktoken
