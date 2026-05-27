@@ -122,7 +122,7 @@ python 1)LLMS/llm.py
 
 Each folder contains a detailed README with theory and practical notes:
 
-- **[1)LLMS/README.md](./1)LLMS/README.md)** - LLM fundamentals
+- **[1)LLMS/README.md](./1LLMS)LLMS/README.md)** - LLM fundamentals
 - **[2)Chat_Models/README.md](./2)Chat_Models/README.md)** - Chat architecture
 - **[3)LocalModels/README.md](./3)LocalModels/README.md)** - Local deployment
 - **[4)Embedding_models/README.md](./4)Embedding_models/README.md)** - Vector representations
