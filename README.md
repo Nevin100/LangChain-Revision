@@ -123,18 +123,18 @@ python 1)LLMS/llm.py
 Each folder contains a detailed README with theory and practical notes:
 
 - **[1)LLMS/README.md](./1LLMS)LLMS/README.md)** - LLM fundamentals
-- **[2)Chat_Models/README.md](./2)Chat_Models/README.md)** - Chat architecture
-- **[3)LocalModels/README.md](./3)LocalModels/README.md)** - Local deployment
-- **[4)Embedding_models/README.md](./4)Embedding_models/README.md)** - Vector representations
-- **[5)Structured_outputs/README.md](./5)Structured_outputs/README.md)** - Type safety
-- **[6)Chains/README.md](./6)Chains/README.md)** - Workflow composition
-- **[7)Runnables/README.md](./7)Runnables/README.md)** - Composable patterns
-- **[8)Document_Loaders/README.md](./8)Document_Loaders/README.md)** - Data ingestion
-- **[9)TextSplitters/README.md](./9)TextSplitters/README.md)** - Document chunking
-- **[10)Vector_Stores/README.md](./10)Vector_Stores/README.md)** - Semantic storage
-- **[11)Retrievers/README.md](./11)Retrievers/README.md)** - Search strategies
-- **[12)RAG-Pipeline/README.md](./12)RAG-Pipeline/README.md)** - End-to-end systems
-- **[13)Tools/README.md](./13)Tools/README.md)** - Agent tooling
+- **[2)Chat_Models/README.md](./2Chat_Models)Chat_Models/README.md)** - Chat architecture
+- **[3)LocalModels/README.md](./3LocalModels)LocalModels/README.md)** - Local deployment
+- **[4)Embedding_models/README.md](./4Embedding_models)Embedding_models/README.md)** - Vector representations
+- **[5)Structured_outputs/README.md](./5Structured_outputs)Structured_outputs/README.md)** - Type safety
+- **[6)Chains/README.md](./6Chains)Chains/README.md)** - Workflow composition
+- **[7)Runnables/README.md](./7Runnables)Runnables/README.md)** - Composable patterns
+- **[8)Document_Loaders/README.md](./8Document_Loaders)Document_Loaders/README.md)** - Data ingestion
+- **[9)TextSplitters/README.md](./9TestSplitters)TextSplitters/README.md)** - Document chunking
+- **[10)Vector_Stores/README.md](./10Vector_Stores)Vector_Stores/README.md)** - Semantic storage
+- **[11)Retrievers/README.md](./11Retrievers)Retrievers/README.md)** - Search strategies
+- **[12)RAG-Pipeline/README.md](./12RAG-Pipeline)RAG-Pipeline/README.md)** - End-to-end systems
+- **[13)Tools/README.md](./13Tools)Tools/README.md)** - Agent tooling
 
 ## 🎯 Learning Objectives
 
